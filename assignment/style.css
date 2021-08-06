@@ -14,11 +14,32 @@ body {
     background-color: #f9f8eb;
 }
 
-header {
-    background-color: #415865;
+h1 {
+    text-align: center;
+    font-family: font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
 }
 
-footer {
+p {
+    color: #f9f8eb;
+    font-style: italic;
+}
+
+img {
+    border: 1em solid #ffe1b6;
+    width: 20em;
+    height: 20em;
+}
+
+header {
     background-color: #7a9eb1;
 }
 
+footer {
+    background-color: #415865;
+}
+
+ul {
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
