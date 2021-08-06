@@ -9,3 +9,16 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-color: #f9f8eb;
+}
+
+header {
+    background-color: #415865;
+}
+
+footer {
+    background-color: #7a9eb1;
+}
+
